@@ -1,4 +1,4 @@
-# [![lrcouto header](https://raw.githubusercontent.com/lrcouto/lrcouto/main/GITHUB_Header.png)](https://www.linkedin.com/in/lauracoutodesigner/)
+# [![lrcouto header](https://raw.githubusercontent.com/lrcouto/lrcouto/main/GITHUB_Header_V2.png)](https://www.linkedin.com/in/lauracoutodesigner/)
 
 ---
 
