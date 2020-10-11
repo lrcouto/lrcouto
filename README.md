@@ -13,3 +13,8 @@ I'm a Game Design graduate with a specialty in Art Direction/Production Design a
 <a href="https://www.instagram.com/onegrumpyrobot/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_instagram.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/onegrumpyrobot/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_twitter.png"></a>&nbsp;&nbsp;
 </p>
+
+---
+
+[![L.R. Couto's Github stats](https://github-readme-stats.vercel.app/api?username=lrcouto&count_private=true&show_icons=true&hide=contribs,issues)](https://github.com/lrcouto?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lrcouto&layout=compact)](https://github.com/lrcouto?tab=repositories)
