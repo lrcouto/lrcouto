@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Game Design graduate with a specialty in Art Direction/Production Design and currently I'm studying software development at <a href='https://www.42sp.org.br/'>42 São Paulo</a>. I believe in the integration of art and technology, exploring the possibilities that exist between the two disciplines. At the moment, the focus of my work is concentrated on games and interactive media. Feel free to check out my other social media and shoot me a message!
+I'm a Game Design graduate with a specialty in Art Direction/Production Design, currently studying software development at <a href='https://www.42sp.org.br/'>42 São Paulo</a>. I believe in the integration of art and technology, exploring the possibilities that exist between the two disciplines. At the moment, the focus of my work is concentrated on games and interactive media. Feel free to check out my other social media pages and shoot me a message!
 
 ---
 
