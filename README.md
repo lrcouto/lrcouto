@@ -7,7 +7,7 @@ I'm a Game Design graduate with a specialty in Art Direction/Production Design c
 ---
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/lauracoutodesigner/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lrcouto/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.behance.net/onegrumpyrobot/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_behance.png"></a>&nbsp;&nbsp;
 <a href="https://lrcouto.itch.io/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_itchio.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/onegrumpyrobot/"><img src="https://raw.githubusercontent.com/lrcouto/lrcouto/main/icon_instagram.png"></a>&nbsp;&nbsp;
