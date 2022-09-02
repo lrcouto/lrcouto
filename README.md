@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Game Design graduate with a specialty in Art Direction/Production Design studying software development at <a href='https://www.42sp.org.br/'>42 São Paulo</a>. I believe in the integration of art and technology, exploring the possibilities that exist between the two disciplines. I am currently working as a Sofware Engineer at <a href='https://www.piposaude.com.br/'>Pipo Saúde</a>. Feel free to check out my other social media pages and shoot me a message!
+I'm a Sofware Engineer and Game Design graduate with a specialty in Art Direction/Production Design. Studying software development at <a href='https://www.42sp.org.br/'>42 São Paulo</a>. I believe in the integration of art and technology, exploring the possibilities that exist between the two disciplines. Feel free to check out my other social media pages and shoot me a message!
 
 ---
 
