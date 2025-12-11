@@ -13,6 +13,3 @@ I'm a Sofware Engineer and Game Design graduate with a specialty in Art Directio
 </p>
 
 ---
-
-|[![L.R. Couto's Github stats](https://github-readme-stats.vercel.app/api?username=lrcouto&count_private=true&show_icons=true&hide=contribs,issues&hide_border=true)](https://github.com/lrcouto?tab=repositories)   | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lrcouto&layout=compact&hide_border=true)](https://github.com/lrcouto?tab=repositories)  |
-|---|---|
